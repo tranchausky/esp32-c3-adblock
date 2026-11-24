@@ -20,3 +20,6 @@ https://github.com/M-Abozaid/esp32-c3-adblock/releases/download/blocklist/blockl
 
 From reference  
 https://github.com/M-Abozaid/esp32-c3-adblock
+
+# Flash online
+- https://tranchausky.github.io/espflash/index.html?lang=en&type=esp32c3&mode=keep&freq=keep&size=4MB&psram=auto&erase=0&address=0x1000&bin=https%3A%2F%2Ftranchausky.github.io%2Fespflash%2Fdemobin%2Fesp32c3spmini-adsblock.bin
