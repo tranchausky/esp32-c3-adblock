@@ -1,7 +1,6 @@
 ## Some change fomr Readme1.md
 
-How button boot to config wifi, can change 3 wifi, usename/pw
-
+"Press and hold the BOOT button for 3 seconds to enter Wi-Fi configuration mode, where you can configure up to 3 Wi-Fi networks, including their SSIDs and passwords."
 
 http://192.168.4.1  
 <img src="https://i.ibb.co/TqnjtTnz/420c2d8a4dd4.png">
